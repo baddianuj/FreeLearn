@@ -1,0 +1,15 @@
+.SortVisualizer {
+  /* max-width: 992px; */
+  color: #fff;
+  width: auto;
+  padding: 0.5rem;
+  margin: 1rem 1rem;
+  box-shadow: var(--box-shadow-2);
+  background-color: #0f0f0f;
+  transition: 0.5s ease-in-out;
+}
+
+.SortVisualizer__ProgressBar {
+  overflow: clip;
+  margin: 0.5rem;
+}

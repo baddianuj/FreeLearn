@@ -1,0 +1,9 @@
+.AppControls__Size {
+  display: inline-flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.justforcolor{
+  color: #000;
+}
